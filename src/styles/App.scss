@@ -25,10 +25,10 @@ html, body {
   @at-root {
     .img-figure {
       position: absolute; 
-      width: 480px;
-      height: 380px;
+      width: 440px;
+      height: 340px;
       margin: 0;
-      padding: 40px;
+      padding: 20px;
       background-color: #fff;
       box-sizing: border-box; 
 
@@ -41,7 +41,7 @@ html, body {
       text-align: center; 
       
       .img-title {
-        margin:  20px 0 0 0;
+        margin:  3px 0 0 0;
         color: #a7a0a2;
         font-size: 16px;
       }
